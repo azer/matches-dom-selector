@@ -1,11 +1,10 @@
-
 # matches-selector
 
   Check if an element matches a given selector.
 
 ## Installation
 
-    $ component install component/matches-selector
+    $ npm install matches-dom-selector
 
 ## Example
 

@@ -1,0 +1,26 @@
+{
+  "name": "matches-dom-selector",
+  "version": "0.0.0",
+  "description": "Check if an element matches a given selector string",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:azer/matches-dom-selector.git"
+  },
+  "keywords": [
+    "matches",
+    "dom",
+    "selector"
+  ],
+  "author": "TJ Holowaychuk",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/azer/matches-dom-selector/issues"
+  },
+  "dependencies": {
+    "select-dom": "0.0.0"
+  }
+}
